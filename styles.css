@@ -1,0 +1,62 @@
+.container {
+	width:1000px;
+	margin:20px;
+	padding:1px;
+	border:1px red solid;
+}
+
+.box {
+	display: inline-block;
+	width: 200px;
+	height: 100px;
+	border: 1px blue solid;
+	margin: 5px;
+	padding:1px;
+	text-align: center;
+
+}
+
+ #bovenbox1 {
+ background-color: #FF0000;
+ text-align: center;
+}
+
+ #bovenbox2 {
+ background-color: #00FF00;
+ text-align: center;
+}
+
+ #bovenbox3 {
+ background-color: #0000FF;
+ text-align: center;
+}
+
+ #middenbox1 {
+ background-color: #FFFF00;
+ text-align: center;
+}
+
+ #middenbox2 {
+ background-color: #00FFFF;
+ text-align: center;
+}
+
+ #middenbox3 {
+ background-color: #0FFFF0;
+ text-align: center;
+}
+
+ #onderbox1 {
+ background-color: #0F00F0;
+ text-align: center;
+}
+
+ #onderbox2 {
+ background-color: #0FaaF0;
+ text-align: center;
+}
+
+ #onderbox3 {
+ background-color: #00ad00;
+ text-align: center;
+}
