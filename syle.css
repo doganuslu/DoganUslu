@@ -1,0 +1,19 @@
+
+p {
+	color: green;
+}
+
+p::first-letter {
+	color: red;
+	font-size: 250%;
+}
+
+p::first-line {
+	font-size: 200%;
+	color: black;
+}
+
+img {
+	width: 300px
+	height:300px;
+}
