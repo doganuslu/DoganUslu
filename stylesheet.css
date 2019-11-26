@@ -1,0 +1,156 @@
+.tabel {
+	 margin-left: 20px;
+	 margin-right: 38px;
+	 font-size: 150%;
+}
+
+.td1 {
+	width: 60%;
+}
+
+.td2 {
+	width: 28%;
+}
+
+.td3 {
+	width: 12%;
+	display: inline;
+}
+
+.th1	{
+	text-decoration: underline;
+	display: inline;
+}
+
+.t2td1 {
+	width: 20%;
+}
+
+.t2td2 {
+	width: 2%;
+	text-align: right;
+}
+
+.t2td3 {
+	width: 10%;
+	text-align: right;
+}
+
+.tr22 {
+	display: inline;
+}
+
+.t2td4 {
+	width: 80%;
+	text-align: right;
+}
+#garantie {
+	color: blue;
+	padding-left: 40px;
+}
+
+#subtotaal {
+	color:blue;
+}
+
+#totaal {
+	color: red;
+}
+
+.tabel3 {
+	 margin-left: 20px;
+	 margin-right: 140px;
+	 font-size: 150%;
+	 text-align: right;
+	
+}
+
+.t3td1 {
+	width: 50%;
+	padding-right: 10px;
+}
+
+.t3td2 {
+	width: 15%;
+	padding-right:60px;
+	text-align:right;
+}
+
+.t3td3 {
+	width: 5%;
+	text-align: right;
+	padding-right: -15px;
+}
+
+
+.tabel4 {
+	margin-left: 20px;
+	margin-right: : 40px;
+	font-size: 150%;
+}
+
+.t4td1 {
+	width: 10%;
+}
+.t4td2 {
+	width: 25%;
+}
+.t4td3 {
+	width: 10%;
+}
+.t4td4 {
+	width: 5%;
+	text-align:right;
+	margin-right: 40px;
+	padding-right: 100px;
+}
+.tabel5 {
+	margin-left: 20px;
+	margin-right: : 40px;
+	font-size: 150%;
+	text-align: right;
+}
+
+.t5td1 {
+	width: 50%;
+	text-align:right;
+	padding-right: 40px;
+}
+.t5td2 {
+	width: 14%;
+}
+.t5td3 {
+	width: 10%;
+	text-align: right; 
+	padding-right: 100px;
+}
+
+.table6 {
+	font-size: 125%;
+	text-align:right;
+}
+
+.th2 {
+	padding-left:624px; 
+	background-color: lightgrey;
+	display: inline;
+}
+.th3 {
+
+	background-color: lightgrey;
+	padding-left: 425px;
+}
+
+.image {
+	margin-top: 0px;
+}
+
+span {
+	font-size: 50px;
+	font-family: cursive;
+}
+
+.span2 {
+	font-family: garamond;
+	font-size: 30px;
+}
